@@ -1,3 +1,0 @@
-Hello all, and welcolme.  If you see this page, you are probably an employer of some sort considering to hire me, or I've given you a link to show off all my cool stuff.  This is just a list of what Projects I have and why I'm proud of them and what I feel might interest you.  There are a bunch of links here, and this is primarily an attempt to streamline the process so you can look through my code in as streamlined a way as possible.  I try to be nothing if not organized.
-
-If you see this sentance, it means this is my initial commit to the portal and it's under construction over the next day or so.
