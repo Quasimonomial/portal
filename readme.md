@@ -9,6 +9,11 @@ Hello all, and welcome.  If you see this page, you are probably a potential pers
 This is a clone of Goodreads.  I pull data from the google books api.
 
 
+##PricePda
+[Source Code](https://github.com/Quasimonomial/PricePda)
+
+This is a comparison tool for tracing prices for retailers.
+
 ##Chess
 [Source Code](https://github.com/Quasimonomial/ruby_chess)
 
