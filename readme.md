@@ -11,8 +11,12 @@ This is a clone of Goodreads.  I pull data from the google books api.
 
 ##PricePda
 [Source Code](https://github.com/Quasimonomial/PricePda)
+[Live Site](http://pricepda.herokuapp.com/)
 
 This is a comparison tool for tracing prices for retailers.
+There are some neat features on this site; the first is that you can imput a percent range and it will highlight competitor's prices that are significantly lower than that of your products.
+
+I also used the gem RubyXL to run everything based on excel files - you can upload your prices as a user and an admin can upload into the product database.
 
 ##Chess
 [Source Code](https://github.com/Quasimonomial/ruby_chess)
