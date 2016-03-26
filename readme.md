@@ -2,9 +2,19 @@
 
 Hello all.  This is a splash page to show off all the cool stuff I built.  Below are a bunch of projects and a bit of a tour of my stuff, so feel free to follow the links and click on things.  Looking through a person's github is sometimes a headache - hopefully this should streamline the process. I try to be nothing if not organized.
 
+##Wikifog
+[Source Code](https://github.com/Quasimonomial/wiki-fog)
+[Live Site](https://desolate-island-84231.herokuapp.com)
+
+This is Wikifog.  It's a word cloud generator that uses the text of a wikipedia article and its descendants!
+
+This project is tested on both the back end and the front end, rspec for the back end and jasmine for the front end.  Instructions on how to run tests are in the repo.
+
+This project uses the mediawiki API and several libraries.  Try clicking on some words in the result!
+
 ##PricePda
 [Source Code](https://github.com/Quasimonomial/PricePda)
-[Live Site](http://pricepda.herokuapp.com/)
+[Live Site](http://pricepda.herokuapp.com)
 
 This is a comparison tool for tracing prices for retailers.
 
@@ -26,12 +36,6 @@ This is a clone of Goodreads.  I pull data from the google books api.
 
 [Mastermind](https://en.wikipedia.org/wiki/Mastermind_%28board_game%29) is a board game, it's kinda cool.  Anyway, this is a ruby implimentation of the game - the human player can either try to guess a code the computer comes up with, or the player can come up with a code for the computer to guess.
 
-Of course, it's impossible for the player to win if they try to generate a code to fool the computer.  The computer is smart enough to figure out any code within about eight guesses or so. 
+Of course, it's impossible for the player to win if they try to generate a code to fool the computer.  The computer is smart enough to figure out any code within about eight guesses or so.
 
 The Game is played in the console.
-
-
-##Chess
-[Source Code](https://github.com/Quasimonomial/ruby_chess)
-
-It's chess!  Everybody loves chess.  This is a game that I set up in ruby, it's rad.  Check it out.  Plays through the console.
